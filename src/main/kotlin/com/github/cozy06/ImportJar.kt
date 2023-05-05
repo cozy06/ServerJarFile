@@ -40,7 +40,6 @@ class ImportJar {
             return urls
         } catch (e: Exception) {
             throw e
-            println(">> ")
         }
     }
 
